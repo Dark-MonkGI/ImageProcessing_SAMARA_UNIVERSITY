@@ -44,3 +44,7 @@ SIP-2022
 6. КИХ фильтр.
 
 ##  **Описание реализации** 
+![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/Assassins_Creed.jpg)
+![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index.png)
+![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index2.png)
+![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index3.png)
