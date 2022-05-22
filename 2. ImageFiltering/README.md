@@ -47,18 +47,21 @@ SIP-2022
 1. Считать цветное rgb изображение: <br/> 
 `Исходное изображение`<br/> 
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/Assassins_Creed.jpg) <br/> 
-
+<br/>
 `С зашумлением:`
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index.png)
 
 
-`Медианная фильтрация согласно варианта:
+`Медианная фильтрация согласно варианта:`<br/>
 
-2 | 1 | 2
+  |   |  
 ------ | ------ | ------
-Cell   | Cell   | ------
+2   | 1  | 2
 ------ | ------ | ------
-Cell   | Cell   | ------
+1   |  1  | 1
+------ | ------ | ------
+2   | 1  | 2
+<br/>
 
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index2.png) 
 
