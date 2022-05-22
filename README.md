@@ -8,4 +8,4 @@ IP-2022
 ### Студент: Griaznov Ilia
 ### Группа: "6131-010402D"
 
-### 2. [Фильтрация изображений](https://github.com/Dark-MonkGI/Data_Analysis_Tools_SAMARA_UNIVERSITY/tree/main/0.%20NumPy)
+### 2. [Фильтрация изображений](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/tree/main/2.%20ImageFiltering)
