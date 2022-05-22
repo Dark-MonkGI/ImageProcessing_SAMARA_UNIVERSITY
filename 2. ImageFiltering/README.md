@@ -84,7 +84,7 @@ SIP-2022
 
 <br/>
 
-Зашумление исходного изображения на 10%:
+Зашумление исходного изображения на 10% :
 <br/>
 
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index4.png) 
@@ -108,7 +108,7 @@ SIP-2022
 Обработка зашумленного изображения с помощью спектров.<br/>
 На выходе следующее изображение:
 <br/>
-
+<br/>
 
 
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index6.png) 
