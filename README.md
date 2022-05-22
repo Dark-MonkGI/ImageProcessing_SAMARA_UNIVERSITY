@@ -4,7 +4,7 @@
 [Samara University](https://ssau.ru/) <br/>
 SIP-2022
 ## Лабораторные работы по курсу "Systems Image Processing". <br/>
-Обработка изображений <br/>
+Системы обработки изображений <br/>
 ### Студент: Griaznov Ilia
 ### Группа: "6131-010402D"
 
