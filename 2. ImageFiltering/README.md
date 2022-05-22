@@ -4,7 +4,7 @@
 Samara University <br/>
 SIP-2022
 
-## 0.[ImageFiltering]([https://github.com/Dark-MonkGI](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/IP_6131-010402D_Griaznov_I.ipynb))
+## 0.[ImageFiltering](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/IP_6131-010402D_Griaznov_I.ipynb)
 
 **Задача:** <br/>
 1. Считать цветное rgb изображение
@@ -87,4 +87,4 @@ SIP-2022
 Получена среднеквадратичная ошибка обработанного изображения.
 Далее изображение было обработано взвешенной ранговой фильтрацией с рангом 1, для каждого ранга взвешенной ранговой фильтрации была получена соответствующая ошибка.
 Наиболее эфективено показала себя обработака со вторым рангом в последовательности от одного.
-Используя методы медианной фильтрации видно хороший результат обработки звшумлений. 
+Используя методы медианной фильтрации видно хороший результат обработки зашумленных изображений. 
