@@ -49,6 +49,8 @@ SIP-2022
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/Assassins_Creed.jpg) <br/> 
  <br/> 
  <br/> 
-![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index.png) <br/>
+![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index.png)
+<br/>
+
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index2.png) <br/>
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index3.png) <br/>
