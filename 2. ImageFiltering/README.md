@@ -1,10 +1,10 @@
-## Лабораторная работа по курсу "Обработка изображений".<br/>
+## Лабораторная работа по курсу "Системы обработки изображений".<br/>
 ### *Фильтрация изображений* <br/>
 **Вариант №1** <br/>
 Samara University <br/>
-IP-2022
+SIP-2022
 
-## 0.[ImageFiltering](https://github.com/Dark-MonkGI)
+## 0.[ImageFiltering]([https://github.com/Dark-MonkGI](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/IP_6131-010402D_Griaznov_I.ipynb))
 
 **Задача:** <br/>
 1. Считать цветное rgb изображение

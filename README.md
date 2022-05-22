@@ -1,10 +1,10 @@
-# ImageProcessing-Laboratory-work 
+# SystemsImageProcessing-Laboratory-work 
 ![logo](https://ssau.ru/pagefiles/of_docs/Firm%20blocks_left-gorizont_naimenovanie_Rus.png)
 
 [Samara University](https://ssau.ru/) <br/>
-IP-2022
-## Лабораторные работы по курсу "Image Processing". <br/>
-Обработка изображений <br/>
+SIP-2022
+## Лабораторные работы по курсу "Systems Image Processing". <br/>
+Системы обработки изображений <br/>
 ### Студент: Griaznov Ilia
 ### Группа: "6131-010402D"
 
