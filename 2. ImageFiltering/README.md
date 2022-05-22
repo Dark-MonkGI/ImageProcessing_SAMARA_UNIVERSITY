@@ -82,8 +82,35 @@ SIP-2022
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index3.png) 
 
 
+<br/>
+
+Зашумление исходного изображения на 10%:
+<br/>
+
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index4.png) 
+
+
+<br/>
+
+После обработки КИХ-фильтром окном:
+-- | -- | --
+:---:|:---:|:----:
+2  | 1 | 2
+1  | 1 | 1
+2  | 1 | 2
+<br/>
+
+
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index5.png) 
+
+
+<br/>
+Обработка зашумленного изображения с помощью спектров.<br/>
+На выходе следующее изображение:
+<br/>
+
+
+
 ![logo](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/img/index6.png) 
 ##  **Вывод** 
 Взято исходное цветное изображение, наложен шум соль и перец, с процентным зашумлением согласно варианта.
