@@ -4,7 +4,7 @@
 Samara University <br/>
 SIP-2022
 
-## 0.[ImageFiltering](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/IP_6131-010402D_Griaznov_I.ipynb)
+## 2.[ImageFiltering](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/2.%20ImageFiltering/IP_6131-010402D_Griaznov_I.ipynb)
 
 **Задача:** <br/>
 1. Считать цветное rgb изображение
