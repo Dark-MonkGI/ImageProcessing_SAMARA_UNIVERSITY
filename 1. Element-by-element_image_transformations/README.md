@@ -4,7 +4,7 @@
 Samara University <br/>
 SIP-2022
 
-## 1.[Element-by-element](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/)
+## 1.[Element-by-element](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/1.%20Element-by-element_image_transformations/IP_6131-010402D_Griaznov_I_%E2%84%961.ipynb)
 
 **Задача:** <br/>
 1. Считать цветное rgb изображение
