@@ -1,12 +1,9 @@
 ## Лабораторная работа по курсу "Системы обработки изображений".<br/>
-### *Обработка бинарных изображений. Морфология.* <br/>
-**Вариант №6** <br/>
+### *Выделение контуров на изображениях.* <br/>
+**Вариант №* <br/>
 Samara University <br/>
 SIP-2022
 
-## 3.[Processing of binary images](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/3.%20Processing_of_binary_images/IP_6131-010402D_Griaznov_I_3.ipynb)
-
-**Задача:** <br/>
-
+## 3.[Highlighting contours](https://github.com/Dark-MonkGI/ImageProcessing_SAMARA_UNIVERSITY/blob/main/4.%20Highlighting%20contours/IP_6131-010402D_Griaznov_I_4.ipynb)
 
 **Язык:** Python <br/> 
